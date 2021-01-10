@@ -31,5 +31,5 @@ AWS Fargate with Amazon EKS is currently  available in the following Regions:
 | Middle East (Bahrain) | me-south-1 |
 
 {{% notice warning %}}
-Don't continue the lab unless you use one of these region.
+Don't continue the lab unless you use one of these regions.
 {{% /notice %}}
